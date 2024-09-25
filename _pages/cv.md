@@ -31,7 +31,7 @@ redirect_from:
 
 ## Work Experience
 
-- <span style="color: #3246a8;"> Data Engineer Consultant </span> **_Convz_** | Nov 2022 - present (Full-time) Ontario, Canada
+- <span style="color: #3246a8;"> Data Engineer Consultant </span> **_Convz_**, Nov 2022 - present (Full-time), Ontario, Canada
 
   - Designed and implemented ETL solutions optimized for cloud environments (GCP, AWS, Azure)
     Developed Python scripts for data quality metrics, validating over 200 DAGs to enhance data integrity

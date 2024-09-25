@@ -31,7 +31,7 @@ redirect_from:
 
 ## Work Experience
 
-- <span style="color: #3246a8;"> Data Engineer Consultant </span> **_Convz_**, Nov 2022 - present (Full-time), Ontario, Canada
+- <span style="color: #3246a8;"> Data Engineer Consultant</span>, **_Convz_**, _Nov 2022 - present (Full-time)_, _Ontario, Canada_
 
   - Designed and implemented ETL solutions optimized for cloud environments (GCP, AWS, Azure)
     Developed Python scripts for data quality metrics, validating over 200 DAGs to enhance data integrity
@@ -46,26 +46,26 @@ redirect_from:
   - Reduced pipeline downtime and manual interventions by automating task coordination and streamlining data flows across various systems
     <br>
 
-- <span style="color: #3246a8;"> Machine Learning Engineer </span>| **_PropTexx_** | _Sep 2023 - Dec 2023 (Part-time)_ | _Ontario, Canada_
+- <span style="color: #3246a8;"> Machine Learning Engineer</span>, **_PropTexx_** , _Sep 2023 - Dec 2023 (Part-time)_ , _Ontario, Canada_
 
   - Conducted advanced research in Generative AI and Computer Vision to optimize machine learning models
   - Integrated third-party platforms with existing systems and generated detailed API usage reports using MS LOOKUP on Google Cloud Platform, highlighting strong analytical and technical integration abilities
     <br>
 
-- <span style="color: #3246a8;"> Master Thesis </span>| **_Forschungszentrum Jülich_** | _Oct 2021 - Aug 2023 (Co-op)_ | _Bangkok, Thailand_
+- <span style="color: #3246a8;"> Master Thesis</span>, **_Forschungszentrum Jülich_** , _Oct 2021 - Aug 2023 (Co-op)_ , _Bangkok, Thailand_
 
   - Collaborated with the Institute of Bio- and Geosciences – Plant Sciences (IBG-2) as part of a Master Thesis project in partnership with King Mongkut's University of Technology Thonburi (KMUTT)
   - Conducted deep learning research on cassava root data provided by Forschungszentrum Jülich, utilizing advanced machine learning techniques to analyze and model agricultural datasets
   - Published findings in an international IEEE conference paper, contributing to the field of agricultural data science and computer vision
     <br>
 
-- <span style="color: #3246a8;"> Machine Learning Engineer </span>| **_AI and Robotics Ventures_** | _May 2022 - Nov 2022 (Full-time)_ | _Bangkok, Thailand_
+- <span style="color: #3246a8;"> Machine Learning Engineer</span>, **_AI and Robotics Ventures_** , _May 2022 - Nov 2022 (Full-time)_ , _Bangkok, Thailand_
   - Applied deep learning techniques to address complex computer vision challenges, leveraging scalable machine learning algorithms and frameworks for production environments
   - Led a proof of concept (POC) to implement MLOps techniques, automating existing ML services using tools like MLflow and Kubeflow, streamlining model tracking, versioning, and deployment processes for faster and more reliable production releases
   - Developed and deployed machine learning services APIs to enable seamless integration between data platforms and machine learning models, with a focus on automation and scalability using Python and tools like MLflow, Kubeflow, and Airflow
   - Utilized containerization technologies such as Docker and Kubernetes for efficient model deployment, alongside cloud platforms like AWS for managing infrastructure and workflows
     <br>
-- <span style="color: #3246a8;"> Data Engineer </span>| **_AI and Robotics Ventures_** | _Dec 2020 - May 2022 (Full-time)_ | _Bangkok, Thailand_
+- <span style="color: #3246a8;"> Data Engineer</span>, **_AI and Robotics Ventures_** , _Dec 2020 - May 2022 (Full-time)_ , _Bangkok, Thailand_
 
   - Designed and implemented ETL solutions optimized for the AWS cloud environment
   - Developed RESTful APIs for efficient data access and integration
@@ -80,7 +80,7 @@ redirect_from:
   - Optimized the automation of backend systems, reducing manual intervention and improving system performance and resilience
     <br>
 
-- <span style="color: #3246a8;"> Data Engineer </span>| **_CP ALL Public Company Limited_** | _Jan 2020 - Dec 2022 (Full-time)_ | _Bangkok, Thailand_
+- <span style="color: #3246a8;"> Data Engineer</span>, **_CP ALL Public Company Limited_** , _Jan 2020 - Dec 2022 (Full-time)_ , _Bangkok, Thailand_
   - Designed, implemented, and optimized fault-tolerant, reliable, and scalable architectures for Big Data
     systems, integrating diverse data sources
   - Selected and integrated Big Data tools and frameworks to meet project requirements
@@ -93,33 +93,9 @@ redirect_from:
   - Conducted system measurement and monitoring for capacity, performance, and failure analysis
     <br>
 
-# Skills
-
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
-
 # Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

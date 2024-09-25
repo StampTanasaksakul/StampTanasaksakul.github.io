@@ -24,26 +24,26 @@ author:
   avatar           : "profile.png"
   name             : "Stamp (Chanowat) Tanasaksakul"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Over 5 years of experience as a data engineer with in-depth knowledge of machine learning and software development. Proficient in a wide range of programming languages, cloud technologies and data-centric tools such as AWS, GCP, Azure, and Python"
+  location         : "Ontario, Canada"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chanowat.tan@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-7283-3275"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "StampTanasaksakul"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/chanowat-tanasaksakul/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@chanowattanasaksakul"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

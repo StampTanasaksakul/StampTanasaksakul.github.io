@@ -29,9 +29,8 @@ redirect_from:
 - **Software development skills:** Docker, Kubernetes, CICD, Version Control, Github Actions, Gitlab CI, Jenkins, Cloud Function, AWS Lambda, AWS
   Athena, AWS Glue, AWS Step Functions.
 
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
+## Publications
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

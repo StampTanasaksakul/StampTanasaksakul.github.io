@@ -29,6 +29,12 @@ redirect_from:
 - **Software development skills:** Docker, Kubernetes, CICD, Version Control, Github Actions, Gitlab CI, Jenkins, Cloud Function, AWS Lambda, AWS
   Athena, AWS Glue, AWS Step Functions.
 
+# Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ## Work Experience
 
 - <span style="color: #3246a8;"> Data Engineer Consultant</span>, **_Convz_**, _Nov 2022 - present (Full-time)_, _Ontario, Canada_
@@ -92,10 +98,3 @@ redirect_from:
   - Created dashboards for job monitoring using Google Data Studio, leveraging data from Google BigQuery
   - Conducted system measurement and monitoring for capacity, performance, and failure analysis
     <br>
-
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  

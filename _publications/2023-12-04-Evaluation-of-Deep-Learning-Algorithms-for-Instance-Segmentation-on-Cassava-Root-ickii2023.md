@@ -6,8 +6,7 @@ excerpt: False
 date: 2023-12-04
 venue: 'Proceedings of the 2023 8th International Conference on Machine Learning Technologies (ICMLT 2023)'
 paperurl: 'https://doi.org/10.1109/ICKII58656.2023.10332573'
-citation: 'C. Tanasaksakul, K. Akkarajitsakul and T. Wojciechowski, "Evaluation of Deep Learning Algorithms for Instance Segmentation on Cassava Root," 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), Sapporo, Japan, 2023, pp. 392-397, doi: 10.1109/ICKII58656.2023.10332573.
-keywords: {Training;Deep learning;Measurement;Technological innovation;Shape;Computational modeling;Predictive models;Instance segmentation;Object detection;Convolutional neural network;Cassava roots},'
+citation: 'C. Tanasaksakul, K. Akkarajitsakul and T. Wojciechowski, "Evaluation of Deep Learning Algorithms for Instance Segmentation on Cassava Root," 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), Sapporo, Japan, 2023, pp. 392-397, doi: 10.1109/ICKII58656.2023.10332573.keywords: {Training;Deep learning;Measurement;Technological innovation;Shape;Computational modeling;Predictive models;Instance segmentation;Object detection;Convolutional neural network;Cassava roots},'
 
 ---
 
@@ -18,6 +17,5 @@ Different algorithms were developed and evaluated for segmenting images of cassa
 [Download paper here (pre-print version)](http://stamptanasaksakul.github.io/files/(Preprint)Evaluation-of-Deep-Learning-Algorithms-for-Instance-Segmentation-on-Cassava-Root.pdf)
 
 <!---
-Recommended citation: C. Tanasaksakul, K. Akkarajitsakul and T. Wojciechowski, "Evaluation of Deep Learning Algorithms for Instance Segmentation on Cassava Root," 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), Sapporo, Japan, 2023, pp. 392-397, doi: 10.1109/ICKII58656.2023.10332573.
-keywords: {Training;Deep learning;Measurement;Technological innovation;Shape;Computational modeling;Predictive models;Instance segmentation;Object detection;Convolutional neural network;Cassava roots},
+Recommended citation: C. Tanasaksakul, K. Akkarajitsakul and T. Wojciechowski, "Evaluation of Deep Learning Algorithms for Instance Segmentation on Cassava Root," 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII), Sapporo, Japan, 2023, pp. 392-397, doi: 10.1109/ICKII58656.2023.10332573.keywords: {Training;Deep learning;Measurement;Technological innovation;Shape;Computational modeling;Predictive models;Instance segmentation;Object detection;Convolutional neural network;Cassava roots},
 --->

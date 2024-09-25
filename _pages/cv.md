@@ -6,14 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-• Programming Languages: Python, Java, C/C++, C#.NET, SQL, HTML, and JavaScript.
-• Cloud technologies: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure.
-• Data Engineering skills: Data warehousing, ETL, Data Pipeline, Apache Airflow, PySpark, Apache Beam, and
-Databricks.
-• Machine Learning skills: Scientific Papers, Pytorch, Tensorflow, Keras, MLOps, and Deep Learning.
-• Software development skills: Docker, CICD, Version Control, Jenkins, Cloud Function, AWS Lambda, AWS
-Athena, AWS Glue, AWS Step Functions, etc.
-
 
 {% include base_path %}
 
@@ -26,7 +18,7 @@ Athena, AWS Glue, AWS Step Functions, etc.
   * Senior Project: Online price display for convenient store
 
 ## Skills
-* **Languages:** Thai (Native), English (Proficient; IELTS Academic - 6.5/9.0)
+* **Languages:** Thai (Native), English (Professional working proficiency)
 * **Programming Languages:** Python, Java, C/C++, C#.NET, SQL, HTML, and JavaScript.
 * **Cloud technologies:** Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure.
 * **Data Engineering skills:** Data warehousing, ETL, Data Pipeline, Apache Airflow, PySpark, Apache Beam, and
@@ -35,22 +27,22 @@ Databricks.
 * **Software development skills:** Docker, Kubernetes, CICD, Version Control, Github Actions, Gitlab CI, Jenkins, Cloud Function, AWS Lambda, AWS
 Athena, AWS Glue, AWS Step Functions.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work Experience
+* Nov 2022 - present: <span style="color: #3246a8;">Data Engineer Consultant</span> Toronto, Canada
+  * Designed and implemented ETL solutions optimized for cloud environments (GCP, AWS, Azure)
+  Developed Python scripts for data quality metrics, validating over 200 DAGs to enhance data integrity.
+  * Designed AWS Glue Job pipelines using PySpark to ingest data into AWS Athena.
+  * Successfully migrated Docker Airflow to Amazon MWAA, reducing operational costs by 30%.
+  * Implemented large-scale data warehouse on AWS, following best practices in data architecture and ER
+diagrams.
+  * Managed and developed over 200 DAGs on MWAA, integrating various APIs.
+  * Created batch data pipelines for GCP and AWS data lakes for multiple clients.
+  * Design and implement new data pipelines orchestration flow using Apache Airflow to solve old pipeline
+bottlenecks issues.
+  * Leveraged AWS Step Functions to orchestrate and manage complex backend API workflows, ensuring
+smooth data integration across multiple AWS services, including Lambda, Glue, and Athena.
+  * Reduced pipeline downtime and manual interventions by automating task coordination and streamlining data flows across various systems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======

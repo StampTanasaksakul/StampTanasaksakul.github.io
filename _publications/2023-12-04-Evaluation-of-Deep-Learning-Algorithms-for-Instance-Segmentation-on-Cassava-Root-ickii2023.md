@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Deep Learning Algorithms for Instance Segmentation on Cassava Root"
 collection: publications
-permalink: /publication/2023-12-04-Evaluation-of-Deep-Learning-Algorithms-for-Instance-Segmentation-on-Cassava-Root-ickii2023.md
+permalink: /publication/2023-12-04-Evaluation-of-Deep-Learning-Algorithms-for-Instance-Segmentation-on-Cassava-Root-ickii2023
 excerpt: False
 date: 2023-12-04
 venue: '2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII)'

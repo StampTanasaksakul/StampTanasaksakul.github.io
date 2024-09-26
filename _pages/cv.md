@@ -111,6 +111,13 @@ redirect_from:
 
 ### Specialized Certifications
 
+- **AWS Fundamentals**  
+  Completed: September 2020  
+  Issuing Organization: AWS via Coursera
+  gained proficiency in essential concepts, services, and use cases within the Amazon Web Services (AWS) cloud ecosystem, including core AWS services and key AWS security concepts
+  [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/9XVLCWJX7PBM)
+  <br>
+
 - **AI for Medicine Specialization**  
   Completed: August 2020  
   Issuing Organization: DeepLearning.AI via Coursera
@@ -123,7 +130,6 @@ redirect_from:
    Issuing Organization: DeepLearning.AI via Coursera
   covers the theory and practice of deep learning, including neural networks, convolutional networks, and sequence models.  
    [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/4RBAQXNLAKWV)
-  <br>
 
 ### Certifications from online courses
 
@@ -141,3 +147,13 @@ redirect_from:
   Completed: September 2021
   Issuing Organization: University of Michigan via Coursera
   [View Credential](https://www.coursera.org/account/accomplishments/certificate/HJ4ESP2R33TE)
+  <br>
+- **Introduction to Self-Driving Cars**  
+  Completed: November 2020
+  Issuing Organization: University of Toronto via Coursera
+  [View Credential](https://www.coursera.org/account/accomplishments/certificate/NEQ3)
+  <br>
+- **Machine Learning**  
+  Completed: November 2020
+  Issuing Organization: Stanford University via Coursera
+  [View Credential](https://www.coursera.org/account/accomplishments/certificate/4XRGJ4VJM7JC)

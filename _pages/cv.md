@@ -30,6 +30,7 @@ redirect_from:
   Athena, AWS Glue, AWS Step Functions.
 
 ## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -97,3 +98,46 @@ redirect_from:
   - Created dashboards for job monitoring using Google Data Studio, leveraging data from Google BigQuery
   - Conducted system measurement and monitoring for capacity, performance, and failure analysis
     <br>
+
+## Certifications
+
+### Renewable Certifications
+
+- **Google Cloud Certified Professional Data Engineer**  
+  Valid: March 2024 – March 2026  
+  Issuing Organization: Google Cloud  
+  Demonstrates expertise in designing, building, and maintaining secure, scalable, and reliable data solutions on Google Cloud.
+  [View Credential](https://google.accredible.com/bede8b54-2ecb-4dcb-8feb-18b93fcc93ec)
+
+### Specialized Certifications
+
+- **AI for Medicine Specialization**  
+  Completed: August 2020  
+  Issuing Organization: DeepLearning.AI via Coursera
+  Provides AI techniques for medical diagnosis, treatment prediction, and medical image analysis.  
+  [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KS76VHJ8TKSU)
+  <br>
+
+- **Deep Learning Specialization**  
+   Completed: May 2020  
+   Issuing Organization: DeepLearning.AI via Coursera
+  Covers the theory and practice of deep learning, including neural networks, convolutional networks, and sequence models.  
+   [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/4RBAQXNLAKWV)
+  <br>
+
+### Certifications from online courses
+
+- **Microsoft Azure for Data Engineering**  
+  Completed: July 2024
+  Issuing Organization: Microsoft via Coursera
+  [View Credential](https://www.coursera.org/account/accomplishments/certificate/5ASREQP4YC7F)
+  <br>
+- **Machine Learning in Production**  
+  Completed: June 2022
+  Issuing Organization: DeepLearning.AI via Coursera
+  [View Credential](https://www.coursera.org/account/accomplishments/certificate/3YN9B5Z89A6R)
+  <br>
+- **Database Architecture, Scale, and NoSQL with Elasticsearch**  
+  Completed: September 2021
+  Issuing Organization: University of Michigan via Coursera
+  [View Credential](https://www.coursera.org/account/accomplishments/certificate/HJ4ESP2R33TE)

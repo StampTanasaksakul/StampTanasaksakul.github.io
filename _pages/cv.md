@@ -154,6 +154,6 @@ redirect_from:
   [View Credential](https://www.coursera.org/account/accomplishments/certificate/NEQ3)
   <br>
 - **Machine Learning**  
-  Completed: November 2020
+  Completed: October 2020
   Issuing Organization: Stanford University via Coursera
   [View Credential](https://www.coursera.org/account/accomplishments/certificate/4XRGJ4VJM7JC)

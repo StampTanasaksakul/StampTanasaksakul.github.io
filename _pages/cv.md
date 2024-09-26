@@ -114,14 +114,14 @@ redirect_from:
 - **AI for Medicine Specialization**  
   Completed: August 2020  
   Issuing Organization: DeepLearning.AI via Coursera
-  Provides AI techniques for medical diagnosis, treatment prediction, and medical image analysis.  
+  provides AI techniques for medical diagnosis, treatment prediction, and medical image analysis.  
   [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KS76VHJ8TKSU)
   <br>
 
 - **Deep Learning Specialization**  
    Completed: May 2020  
    Issuing Organization: DeepLearning.AI via Coursera
-  Covers the theory and practice of deep learning, including neural networks, convolutional networks, and sequence models.  
+  covers the theory and practice of deep learning, including neural networks, convolutional networks, and sequence models.  
    [View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/4RBAQXNLAKWV)
   <br>
 

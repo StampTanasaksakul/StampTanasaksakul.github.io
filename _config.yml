@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Stamp Tanasaksakul"
-title_separator          : "-"
+title                    : "stamp@dev:~"
+title_separator          : "|"
 name                     : &name "Stamp Tanasaksakul"
-description              : &description "Data / ML Engineer"
+description              : &description "Data / ML Engineer — AWS · GCP · Azure · Python · MLOps"
 url                      : https://StampTanasaksakul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StampTanasaksakul/StampTanasaksakul.github.io"

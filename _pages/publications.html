@@ -5,9 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="terminal-hero" style="margin-bottom:1.5em;">
+  <div class="terminal-window">
+    <div class="terminal-header">
+      <span class="dot dot-red"></span>
+      <span class="dot dot-yellow"></span>
+      <span class="dot dot-green"></span>
+      <span class="terminal-title">stamp@dev:~/publications</span>
+    </div>
+    <div class="terminal-body" style="min-height:auto;">
+      <div class="terminal-line">
+        <span class="prompt">$</span>
+        <span class="cmd">&nbsp;grep</span>
+        <span class="arg">&nbsp;-r "Tanasaksakul" ieee/</span>
+      </div>
+      <div class="terminal-line output green">1 result found — IEEE ICKII 2023</div>
+    </div>
+  </div>
+</div>
 
 {% include base_path %}
 

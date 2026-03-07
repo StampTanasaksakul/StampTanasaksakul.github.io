@@ -9,6 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="terminal-hero" style="margin-bottom:1.5em;">
+  <div class="terminal-window">
+    <div class="terminal-header">
+      <span class="dot dot-red"></span>
+      <span class="dot dot-yellow"></span>
+      <span class="dot dot-green"></span>
+      <span class="terminal-title">stamp@dev:~/cv</span>
+    </div>
+    <div class="terminal-body" style="min-height:auto;">
+      <div class="terminal-line">
+        <span class="prompt">$</span>
+        <span class="cmd">&nbsp;cat</span>
+        <span class="arg">&nbsp;resume.pdf&nbsp;|&nbsp;pandoc&nbsp;-o&nbsp;cv.html</span>
+      </div>
+      <div class="terminal-line output green">Rendering curriculum vitae...</div>
+      <div class="terminal-line output">5+ years · Data Engineering · ML · Cloud · Canada 🍁</div>
+    </div>
+  </div>
+</div>
+
+<p><a href="/files/cv.pdf" class="btn btn--primary" style="font-family:'JetBrains Mono',monospace;background:#3fb950;border-color:#3fb950;color:#0d1117;font-weight:700;">
+  <i class="fas fa-download"></i>&nbsp; Download PDF
+</a></p>
+
 ## Education
 
 - M.Eng. in <span style="color: #3246a8;">Computer Engineering with a Specialization in Artificial Intelligence</span>, King Mongkut’s University of Technology Thonburi, Thailand, 2024

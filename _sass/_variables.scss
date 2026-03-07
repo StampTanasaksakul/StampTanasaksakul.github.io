@@ -14,8 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "JetBrains Mono", "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
-$monospace                  : "JetBrains Mono", "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : "JetBrains Mono", "Hack", "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : "JetBrains Mono", "Hack", "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #8b949e;
-$dark-gray                  : #6e7681;
-$darker-gray                : #484f58;
-$light-gray                 : #30363d;
-$lighter-gray               : #21262d;
+$gray                       : #4d7a4d;
+$dark-gray                  : #3a5c3a;
+$darker-gray                : #2a3c2a;
+$light-gray                 : #1a2a1a;
+$lighter-gray               : #111811;
 
-$body-color                 : #0d1117;
-$background-color           : #0d1117;
-$code-background-color      : #161b22;
-$code-background-color-dark : #0d1117;
-$text-color                 : #e6edf3;
-$border-color               : #30363d;
+$body-color                 : #080808;
+$background-color           : #080808;
+$code-background-color      : #060606;
+$code-background-color-dark : #060606;
+$text-color                 : #b2ffb2;
+$border-color               : rgba(0,255,65,.18);
 
-$primary-color              : #3fb950;
-$success-color              : #3fb950;
-$warning-color              : #d29922;
-$danger-color               : #f85149;
-$info-color                 : #79c0ff;
+$primary-color              : #00ff41;
+$success-color              : #00ff41;
+$warning-color              : #ffcc00;
+$danger-color               : #ff3355;
+$info-color                 : #00d4ff;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #79c0ff;
-$link-color-hover           : #a5d6ff;
-$link-color-visited         : #bc8cff;
-$masthead-link-color        : #e6edf3;
-$masthead-link-color-hover  : #3fb950;
+$link-color                 : #00d4ff;
+$link-color-hover           : #00ff41;
+$link-color-visited         : #80cbc4;
+$masthead-link-color        : #4d7a4d;
+$masthead-link-color-hover  : #00ff41;
 
 
 /*

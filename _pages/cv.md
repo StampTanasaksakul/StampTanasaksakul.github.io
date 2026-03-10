@@ -61,7 +61,17 @@ redirect_from:
   
 ## Work Experience
 
-- <span style="color: #3246a8;"> Data Engineer Consultant</span>, **_Convz_**, _Nov 2022 - present (Full-time)_, _Ontario, Canada_
+- <span style="color: #3246a8;"> Data Engineer & Full-Stack Developer</span>, **_Hanesbrands Inc. (Gildan)_**, _Jan 2025 - Present (Full-time)_, _Bangkok, Thailand_
+
+  - Led development of **FlightDeck**, an internal analytics portal (React + FastAPI + NestJS/Prisma) consolidating company dashboards, replacing fragmented Streamlit PoC apps with a production-grade system
+  - Implemented polymorphic architecture for extensible, scalable dashboard management across teams
+  - Established CI/CD pipelines on Azure DevOps with branching strategy (main/dev/prd) across Dev, QA, and Production environments
+  - Developed data pipelines and APIs supporting the Line Balancing model, reducing manufacturing costs and improving efficiency; implemented MLflow-based model history tracking
+  - Designed and implemented scalable databases and microservices to support plant operations using Azure Databricks with Delta Lake
+  - Collaborated daily with US/Canada Data Science team as a headquarters-aligned resource
+    <br>
+
+- <span style="color: #3246a8;"> Data Engineer Consultant</span>, **_Convz_**, _Nov 2022 - Dec 2024 (Full-time)_, _Toronto, Canada_
 
   - Designed and implemented ETL solutions optimized for cloud environments (GCP, AWS, Azure)
     Developed Python scripts for data quality metrics, validating over 200 DAGs to enhance data integrity

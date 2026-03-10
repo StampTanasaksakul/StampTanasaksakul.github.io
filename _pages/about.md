@@ -20,24 +20,24 @@ redirect_from:
         <span class="prompt">$</span>
         <span class="cmd">&nbsp;whoami</span>
       </div>
-      <div class="terminal-line output bold">Chanowat (Stamp) Tanasaksakul — Data / ML Engineer</div>
-      <div class="terminal-line output">Ontario, Canada &nbsp;|&nbsp; chanowat.tan@gmail.com</div>
+      <div class="terminal-line output bold">Chanowat (Stamp) Tanasaksakul — Data Engineer &amp; Full-Stack Developer</div>
+      <div class="terminal-line output">Bangkok, Thailand &nbsp;|&nbsp; chanowat.tan@gmail.com</div>
       <div class="terminal-line">&nbsp;</div>
       <div class="terminal-line">
         <span class="prompt">$</span>
         <span class="cmd">&nbsp;cat</span>
         <span class="arg">&nbsp;summary.txt</span>
       </div>
-      <div class="terminal-line output">5+ years crafting data pipelines, ML systems &amp; cloud infrastructure.</div>
-      <div class="terminal-line output">Bridging raw data to reliable, scalable solutions across AWS · GCP · Azure.</div>
-      <div class="terminal-line output">M.Eng. (AI) @ KMUTT · OCD Software Engineering @ Sheridan College (Honours).</div>
+      <div class="terminal-line output">5+ years crafting data pipelines, ML systems &amp; full-stack applications.</div>
+      <div class="terminal-line output">Currently at Hanesbrands Inc. (Gildan) — building FlightDeck analytics portal.</div>
+      <div class="terminal-line output">React · FastAPI · NestJS · Azure DevOps · Databricks · MLflow · GCP Certified.</div>
       <div class="terminal-line">&nbsp;</div>
       <div class="terminal-line">
         <span class="prompt">$</span>
         <span class="cmd">&nbsp;ls</span>
         <span class="arg">&nbsp;--color=auto interests/</span>
       </div>
-      <div class="terminal-line output green">data-engineering/&nbsp; machine-learning/&nbsp; mlops/&nbsp; cloud-infra/&nbsp; computer-vision/</div>
+      <div class="terminal-line output green">data-engineering/&nbsp; full-stack-dev/&nbsp; machine-learning/&nbsp; mlops/&nbsp; cloud-infra/</div>
       <div class="terminal-line">&nbsp;</div>
       <div class="terminal-line">
         <span class="prompt">$</span>
@@ -70,8 +70,8 @@ redirect_from:
   </a>
   <span class="stat-badge">
     <span class="badge-icon">📍</span>
-    <span class="badge-value">Ontario</span>
-    <span class="badge-label">Canada</span>
+    <span class="badge-value">Bangkok</span>
+    <span class="badge-label">Thailand</span>
   </span>
   <span class="stat-badge">
     <span class="badge-icon">💼</span>
@@ -92,9 +92,10 @@ redirect_from:
 <div class="skill-grid">
   <span class="skill-tag lang">Python</span>
   <span class="skill-tag lang">SQL</span>
+  <span class="skill-tag lang">TypeScript</span>
+  <span class="skill-tag lang">JavaScript</span>
   <span class="skill-tag lang">Java</span>
   <span class="skill-tag lang">C/C++</span>
-  <span class="skill-tag lang">JavaScript</span>
   <span class="skill-tag lang">Bash</span>
 </div>
 
@@ -135,11 +136,23 @@ redirect_from:
   <span class="skill-tag ml">Generative AI</span>
 </div>
 
+**Backend / Frontend**
+
+<div class="skill-grid">
+  <span class="skill-tag devops">FastAPI</span>
+  <span class="skill-tag devops">NestJS</span>
+  <span class="skill-tag devops">Prisma ORM</span>
+  <span class="skill-tag devops">React</span>
+  <span class="skill-tag devops">REST APIs</span>
+  <span class="skill-tag devops">react-i18next</span>
+</div>
+
 **DevOps / Infrastructure**
 
 <div class="skill-grid">
   <span class="skill-tag devops">Docker</span>
   <span class="skill-tag devops">Kubernetes</span>
+  <span class="skill-tag devops">Azure DevOps</span>
   <span class="skill-tag devops">GitHub Actions</span>
   <span class="skill-tag devops">GitLab CI</span>
   <span class="skill-tag devops">Jenkins</span>
@@ -155,9 +168,16 @@ redirect_from:
 </div>
 
 <div class="exp-card">
+  <div class="exp-role">Data Engineer &amp; Full-Stack Developer</div>
+  <div class="exp-company">Hanesbrands Inc. (Gildan)</div>
+  <div class="exp-period">Jan 2025 – Present · Full-time · Bangkok, Thailand</div>
+  <div class="exp-desc">Led development of FlightDeck, an internal analytics portal (React + FastAPI + NestJS/Prisma) consolidating company dashboards. Implemented CI/CD on Azure DevOps across Dev/QA/Production. Built data pipelines and APIs supporting Line Balancing models with MLflow tracking. Working extensively with Azure Databricks and Delta Lake, collaborating daily with US/Canada Data Science team.</div>
+</div>
+
+<div class="exp-card">
   <div class="exp-role">Data Engineer Consultant</div>
   <div class="exp-company">Convz</div>
-  <div class="exp-period">Nov 2022 – Present · Full-time · Ontario, Canada</div>
+  <div class="exp-period">Nov 2022 – Dec 2024 · Full-time · Toronto, Canada</div>
   <div class="exp-desc">Designed and implemented ETL solutions on GCP, AWS, and Azure. Built 200+ Airflow DAGs on Amazon MWAA, ran large-scale PySpark pipelines via AWS Glue into Athena, and orchestrated complex workloads with AWS Step Functions — cutting pipeline costs by 30%.</div>
 </div>
 

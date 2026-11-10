@@ -37,7 +37,7 @@ redirect_from:
         <span class="cmd">&nbsp;ls</span>
         <span class="arg">&nbsp;--color=auto interests/</span>
       </div>
-      <div class="terminal-line output green">data-engineering/&nbsp; full-stack-dev/&nbsp; machine-learning/&nbsp; mlops/&nbsp; cloud-infra/</div>
+      <div class="terminal-line output green">data-engineering/&nbsp; full-stack-dev/&nbsp; machine-learning/&nbsp; mlops/&nbsp; cloud-infra/&nbsp; homelab/</div>
       <div class="terminal-line">&nbsp;</div>
       <div class="terminal-line">
         <span class="prompt">$</span>
@@ -200,6 +200,24 @@ redirect_from:
   <div class="exp-company">AI and Robotics Ventures</div>
   <div class="exp-period">Dec 2020 – Nov 2022 · Full-time · Bangkok, Thailand</div>
   <div class="exp-desc">Applied deep learning for production CV challenges. Led MLOps POC with MLflow + Kubeflow. Built REST APIs, ETL pipelines, and deployed containerised models with Docker/Kubernetes on AWS.</div>
+</div>
+
+---
+
+<div class="section-divider">
+  <span class="section-prompt">$&nbsp;cat&nbsp;~/homelab/README.md</span>
+  <div class="section-line"></div>
+</div>
+
+Outside of work I run a small homelab: two machines, ZFS, a stack of self-hosted open-source
+services, and a backup plan I keep trying to make honest. It is where I learn the operational half
+of engineering — what breaks at 2 a.m., how a restore actually goes, and why a pinned image tag
+matters more than a clever pipeline.
+
+<div class="exp-card" style="border-left-color:#79c0ff;">
+  <div class="exp-role">Homelab — TrueNAS CE · ZFS · Docker</div>
+  <div class="exp-company" style="color:#3fb950;">3 × 12 TB RAIDZ1 · open-source services on my own hardware</div>
+  <div class="exp-desc">Media, photos, books, retro library, dashboard and a self-hosted AI agent, all from a directory of <code>compose.yaml</code> files and a pinned tag list. <a href="/homelab/">Read the homelab notes →</a></div>
 </div>
 
 ---

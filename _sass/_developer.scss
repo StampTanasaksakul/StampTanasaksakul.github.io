@@ -828,3 +828,48 @@ body::after {
   // Disable scanlines on mobile for performance
   body::before { display: none; }
 }
+
+/* ==========================================================================
+   HOMELAB PAGE
+   ========================================================================== */
+
+/* The masthead is sticky, not fixed — its height is already in the flow,
+   so the theme's body padding-top only produced a dead band above the nav. */
+body { padding-top: 0; }
+
+/* Architecture / storage diagram — one panel per host */
+.arch-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 1.4em 0;
+}
+
+.arch-grid > pre {
+  flex: 1 1 300px;
+  margin: 0;
+}
+
+pre.arch {
+  font-size: 0.72em;
+  line-height: 1.65;
+  white-space: pre;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Tables: keep service matrices readable and scrollable on phones */
+.page__content table { margin: 1em 0; }
+.page__content th:first-child,
+.page__content td:first-child { white-space: nowrap; }
+
+@media (max-width: 600px) {
+  pre.arch { font-size: 0.64em; }
+  .page__content table {
+    display: block;
+    overflow-x: auto;
+    font-size: 0.78em;
+    white-space: normal;
+  }
+  .page__content td, .page__content th { padding: 6px 8px; }
+}
